@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+}
+
+#elements {
+  color: aquamarine;
+}
+
+.my_class {
+  color: blueviolet;
+}
+
+.another_class {
+  color: aqua;
+}
+
+.my_class.another_class {
+  color: brown;
+}
+
+.parent .child {
+  color: chartreuse;
+}
